@@ -554,11 +554,11 @@ def get_guesses(answer, updated_player_list = updated_player_list_xpsorted):
 
 # web interface
 st.title('Unpickler ⚾')
-st.write('Weclome to the Unpickler! The Unpickler will evaluate your guesses' \
+st.write('Weclome to the Unpickler! The Unpickler will evaluate your guesses ' \
 'for the MLB Pickle game. Please see the Demo tab for how to use the tool and '
 'the Methodology section for how calcuations are done. The Unpickler is not affiliated with '
-'MLB Pickle. It is an independent project. All player information used for player attributes (e.g. names, ages, etc.)'
-'are sourced from MLB Pickle, but all calculations and figures presented are the product'
+'MLB Pickle. It is an independent project. All player information used for player attributes (e.g. names, ages, etc.) '
+'are sourced from MLB Pickle, but all calculations and figures presented are the product '
 'of the Unpickler.')
     
 
